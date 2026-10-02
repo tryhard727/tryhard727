@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#101820"/><stop offset="1" stop-color="#182b32"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#9ab7ad" stroke-opacity=".08" stroke-width="1"/></pattern>
+  </defs>
+  <rect width="1200" height="260" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="260" rx="18" fill="url(#grid)"/>
+  <g fill="none" stroke="#8cc6ae" stroke-opacity=".55" stroke-width="2">
+    <path d="M0 52H120V92H208M0 196H150V160H242M1200 64H1080V104H1014M1200 210H1060V174H980"/>
+    <path d="M820 0V40H880V76M300 260V220H360V190"/>
+    <circle cx="120" cy="52" r="4" fill="#8cc6ae"/><circle cx="208" cy="92" r="4" fill="#8cc6ae"/><circle cx="150" cy="196" r="4" fill="#8cc6ae"/><circle cx="242" cy="160" r="4" fill="#8cc6ae"/>
+    <circle cx="1080" cy="64" r="4" fill="#8cc6ae"/><circle cx="1014" cy="104" r="4" fill="#8cc6ae"/><circle cx="1060" cy="210" r="4" fill="#8cc6ae"/><circle cx="980" cy="174" r="4" fill="#8cc6ae"/>
+  </g>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="78" y="94" fill="#8cc6ae" font-size="14" letter-spacing="3">ENGINEERING / DIGITAL DESIGN</text>
+    <text x="76" y="151" fill="#f1f5f2" font-size="42" font-weight="700">RTL DESIGN</text>
+    <text x="78" y="185" fill="#c1d1cb" font-size="21">Functional verification · SoC interfaces</text>
+    <text x="78" y="224" fill="#8cc6ae" font-size="13" letter-spacing="1.5">SYSTEMVERILOG  /  UVM  /  SVA</text>
+    <g transform="translate(930 84)" stroke="#8cc6ae" stroke-width="2" fill="none">
+      <rect x="0" y="0" width="150" height="96" rx="8" stroke-opacity=".8"/>
+      <rect x="26" y="20" width="98" height="56" rx="4" stroke-opacity=".8"/>
+      <path d="M-16 16H0M-16 36H0M-16 56H0M-16 76H0M150 16H166M150 36H166M150 56H166M150 76H166M34 -16V0M58 -16V0M82 -16V0M106 -16V0M34 96V112M58 96V112M82 96V112M106 96V112"/>
+      <path d="M42 48H57L67 36L83 61L94 48H108" stroke="#d7e6df" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+  </g>
+</svg>
