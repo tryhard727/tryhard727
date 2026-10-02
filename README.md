@@ -1,77 +1,83 @@
 <div align="center">
 
-<img src="assets/profile-header.svg" alt="RTL Design — Functional Verification and SoC Interfaces" width="100%">
+<img src="assets/profile-header.svg" alt="Functional Verification — SystemVerilog, SVA, UVM" width="100%">
 
 <br>
 
-### Digital VLSI · RTL Design · Functional Verification
+<code>ENGINEERING / DIGITAL HARDWARE / VERIFICATION</code>
 
-**Electronics and Communication Engineering graduate** focused on digital design and verification, with a particular interest in RTL, reusable verification environments, and SoC interfaces.
+# Functional Verification Engineer
 
-[Portfolio](https://tryhard727.github.io/allfathergivemesite/) · [GitHub](https://github.com/tryhard727)
+**SystemVerilog · SVA · UVM · RTL**
+
+ECE graduate focused on functional verification of digital designs: building test environments, checking protocol behavior, and turning design requirements into measurable evidence.
+
+[PORTFOLIO ↗](https://tryhard727.github.io/allfathergivemesite/) &nbsp; / &nbsp; [REPOSITORIES ↗](https://github.com/tryhard727?tab=repositories)
 
 </div>
 
 ---
 
-## / Focus
+## 01 / PRIMARY DOMAIN
 
-I work across the RTL and verification sides of digital hardware, translating protocol behavior and design intent into testable implementations.
+```text
+┌─ VERIFICATION STACK ───────────────────────────────────────────────┐
+│                                                                    │
+│  SYSTEMVERILOG    Testbench architecture, classes, interfaces      │
+│  UVM              Agents, sequences, drivers, monitors, scoreboards│
+│  SVA              Temporal checks, protocol rules, corner cases    │
+│  COVERAGE         Functional coverage, coverage-driven testing     │
+│  DEBUG            Simulation, waveform analysis, failure isolation│
+│                                                                    │
+└────────────────────────────────────────────────────────────────────┘
+```
 
-| RTL & Digital Design | Functional Verification |
-|:--|:--|
-| Combinational and sequential logic | SystemVerilog and UVM |
-| Protocol-oriented RTL | Scoreboards and monitors |
-| Interface integration | Assertions (SVA) and coverage |
-| Simulation and debug | Test planning and result analysis |
+My main focus is **functional verification**—understanding expected design behavior, creating meaningful stimulus, checking responses, and finding corner cases before they become silicon issues.
 
-## / Selected Projects
+## 02 / PROJECTS
 
-<details open>
-<summary><strong>APB to SPI Bridge</strong> <code>RTL</code> <code>UVM</code> <code>APB</code> <code>SPI</code></summary>
+### `[01]` APB → SPI BRIDGE
 
-An APB-to-SPI bridge project bringing together an APB interface, SPI core, protocol agents, and UVM-based verification.
+**RTL / SystemVerilog / UVM / APB / SPI**
 
-[Explore the repository →](https://github.com/tryhard727/spi_uvm_ral)
+A protocol bridge project combining an APB interface and SPI core with protocol agents and a UVM-based verification environment.
 
-</details>
+[ VIEW SOURCE ↗ ](https://github.com/tryhard727/spi_uvm_ral)
 
-<details open>
-<summary><strong>AXI3 UVM VIP</strong> <code>SystemVerilog</code> <code>UVM</code> <code>AXI3</code></summary>
+### `[02]` AXI3 UVM VIP
 
-A reusable UVM verification environment for exercising AXI3 protocol behavior.
+**SystemVerilog / UVM / AXI3**
 
-[Explore the repository →](https://github.com/tryhard727/axi_uvm_vip)
+A reusable UVM verification environment focused on exercising and checking AXI3 protocol behavior.
 
-</details>
+[ VIEW SOURCE ↗ ](https://github.com/tryhard727/axi_uvm_vip)
 
-## / Toolkit
+## 03 / TOOLCHAIN
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Verilog-222222?style=flat-square&logo= verilog&logoColor=white" alt="Verilog">
-  <img src="https://img.shields.io/badge/SystemVerilog-222222?style=flat-square" alt="SystemVerilog">
-  <img src="https://img.shields.io/badge/UVM-222222?style=flat-square" alt="UVM">
-  <img src="https://img.shields.io/badge/SVA-222222?style=flat-square" alt="SVA">
-  <img src="https://img.shields.io/badge/QuestaSim-222222?style=flat-square" alt="QuestaSim">
-  <img src="https://img.shields.io/badge/VCS-222222?style=flat-square" alt="VCS">
-  <img src="https://img.shields.io/badge/Vivado-222222?style=flat-square" alt="Vivado">
-  <img src="https://img.shields.io/badge/Yosys-222222?style=flat-square" alt="Yosys">
-  <img src="https://img.shields.io/badge/Git-222222?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/SystemVerilog-111820?style=for-the-badge&logoColor=white" alt="SystemVerilog">
+  <img src="https://img.shields.io/badge/UVM-111820?style=for-the-badge&logoColor=white" alt="UVM">
+  <img src="https://img.shields.io/badge/SVA-111820?style=for-the-badge&logoColor=white" alt="SVA">
+  <img src="https://img.shields.io/badge/Verilog-111820?style=for-the-badge&logoColor=white" alt="Verilog">
+  <img src="https://img.shields.io/badge/QuestaSim-111820?style=for-the-badge&logoColor=white" alt="QuestaSim">
+  <img src="https://img.shields.io/badge/VCS-111820?style=for-the-badge&logoColor=white" alt="VCS">
+  <img src="https://img.shields.io/badge/Yosys-111820?style=for-the-badge&logoColor=white" alt="Yosys">
+  <img src="https://img.shields.io/badge/Git-111820?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
-## / Currently Interested In
+## 04 / INTERESTS
 
-- RTL architecture and clean, synthesizable design
-- Protocol verification and reusable UVM components
-- Assertion-based verification and functional coverage
-- Digital SoC design and integration
+- UVM testbench architecture and reusable verification components
+- Assertion-based verification and temporal behavior
+- Functional coverage and coverage-driven verification
+- RTL design, SoC interfaces, and digital integration
 
 ---
 
 <div align="center">
 
-**Bengaluru, India**
+<code>LOCATION: BENGALURU, INDIA</code>
 
-<sub>Hardware is behavior made precise.</sub>
+<sub>SPECIFY THE BEHAVIOR. VERIFY THE IMPLEMENTATION.</sub>
 
 </div>
